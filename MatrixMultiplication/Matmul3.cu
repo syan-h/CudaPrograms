@@ -11,7 +11,7 @@ __global__ void mul(int* a, int* b,int* c,int n){
   
       c[id] = 0;
       for(int j = 0;j < n;j++){
-        c[id] += (a[(id%n)*n+j] * b[j*n+(id%n)]) ;  
+        c[id] += (a[(id/n)*n+j] * b[j*n+(id%n)]) ;  
       }
 
     
