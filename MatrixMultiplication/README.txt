@@ -30,3 +30,11 @@ The size of the matrix is 1000x1000
     ->No. of threads: 1 million
 
     ->timings: ~50ms
+
+
+4. Matmul4.cu
+
+    ->calculates the multiplication using shared memory
+      and tiling technique
+
+    ->timings: ~0.3ms
