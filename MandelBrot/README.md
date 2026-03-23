@@ -10,4 +10,5 @@ The image it generates is of N x N where N = 4192.
 Finally python is used to visualize it.
 
 Sample image of 4192 x 4192 is there for viewing.
- ![Mandelbrot Fractal](image.png)
+<img width="4192" height="4192" alt="image" src="https://github.com/user-attachments/assets/67b1f01a-e135-4095-a738-dff501683ade" />
+
